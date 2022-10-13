@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @llcollett
-- 👀 I’m interested in cycling and coding
+- 👋 Hi, I’m Laura.
+- 👀 I’m interested in cycling and coding.
 - 🌱 I’m currently on Front End Developer Path on Codecademy and also keen to revise Python for Data Science.
 - 💞️ I’m not much a fan of collaboration. 🙃
 
